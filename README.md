@@ -41,3 +41,6 @@ The **Qwen 2.5 1.5B** model outperformed others, especially in mathematical reas
 - Python 3.8+
 - Libraries: `transformers`, `datasets`, `bitsandbytes`
 
+## Acknowledgments
+This project was developed by Raiyan Ahmed, Mehedi Hasan, and Mahir Shahriar Abir. Special thanks to the creators of Alpaca and Camel-AI datasets for providing valuable resources.
+
