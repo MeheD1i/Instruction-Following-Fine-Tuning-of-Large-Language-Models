@@ -14,7 +14,6 @@ The primary goals of this project are:
 - **Parameter-Efficient Fine-Tuning (QLoRA)**: Targeted tuning of model modules to save resources.
 
 ## Results
-### Evaluation Metrics
 | Task                   | Model Version    | Dataset              | Perplexity |
 |------------------------|------------------|----------------------|------------|
 | Mathematical Reasoning | Llama-3.2-1B     | Math                 | 1.68       |
@@ -22,7 +21,7 @@ The primary goals of this project are:
 | Combined Tasks         | Llama-3.2-1B     | Math + Alpaca        | 2.68       |
 | Mathematical Reasoning | Qwen 2.5 1.5B    | Math                 | 1.36       |
 | Combined Tasks         | Qwen 2.5 1.5B    | Math + Alpaca        | 1.61       |
-| Combined Tasks         | Qwen 2.5 1.5B    | Math + Alpaca        | 1.61       |
+| Combined Tasks         | Qwen 2.5 1.5B    | Math + Alpaca        | 2.61       |
 
 The **Qwen 2.5 1.5B** model outperformed others, especially in mathematical reasoning tasks with a perplexity score as low as **1.36** on the Math dataset.
 
