@@ -44,3 +44,6 @@ The **Qwen 2.5 1.5B** model outperformed others, especially in mathematical reas
 ## Acknowledgments
 This project was developed by Raiyan Ahmed, Mehedi Hasan, and Mahir Shahriar Abir. Special thanks to the creators of Alpaca and Camel-AI datasets for providing valuable resources.
 
+## Full Report
+For a detailed explanation of the methodology and results, refer to the [Instruction Fine-Tuning Report](./Instruction_FineTuning_Report.pdf).
+
